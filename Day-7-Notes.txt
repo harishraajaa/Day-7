@@ -1,0 +1,8 @@
+h1 to h6 Tags
+
+<b></b> - Bold
+<strong></strong> 
+
+<i></i> - Italic
+
+<p></p> - Paragraph
